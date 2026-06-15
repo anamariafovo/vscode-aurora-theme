@@ -4,6 +4,7 @@
   "description": "A VS Code theme inspired by aurora borealis — deep blues, magentas, greens, and golds.",
   "version": "0.1.0",
   "publisher": "neonmoon",
+  "icon": "aurora-theme.png",
   "license": "MIT",
   "repository": {
     "type": "git",
