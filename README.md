@@ -3,7 +3,9 @@
 A VS Code theme inspired by the aurora borealis — available in dark and light variants.
 
 
-<img src="aurora-drift-dark.png" width="49%" />&nbsp;<img src="aurora-drift-light.png" width="49%" />
+<img src="aurora-drift-dark.png" width="80%" />
+
+<img src="aurora-drift-light.png" width="80%" />
 
 ## Themes
 
