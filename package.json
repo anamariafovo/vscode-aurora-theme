@@ -1,0 +1,28 @@
+{
+  "name": "aurora-theme",
+  "displayName": "Aurora Theme",
+  "description": "A VS Code theme inspired by aurora borealis — deep blues, magentas, greens, and golds.",
+  "version": "0.1.0",
+  "publisher": "neonmoon",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aurora Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurora-dark-color-theme.json"
+      },
+      {
+        "label": "Aurora Light",
+        "uiTheme": "vs",
+        "path": "./themes/aurora-light-color-theme.json"
+      }
+    ]
+  }
+}
