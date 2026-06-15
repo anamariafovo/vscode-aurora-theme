@@ -2,7 +2,7 @@
   "name": "aurora-drift-theme",
   "displayName": "Aurora Drift Theme",
   "description": "A VS Code theme inspired by aurora borealis — deep blues, magentas, greens, and golds.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "neonmoon",
   "icon": "aurora-drift-theme.png",
   "license": "MIT",
