@@ -4,5 +4,5 @@
 
 ### Added
 - Initial release
-- Aurora Dark theme — deep midnight blues with aurora accent colors
-- Aurora Light theme — soft lavender whites with rich, saturated accents
+- Aurora Drift Dark theme — deep midnight blues with aurora accent colors
+- Aurora Drift Light theme — soft lavender whites with rich, saturated accents

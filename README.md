@@ -1,15 +1,15 @@
-# Aurora Theme
+# Aurora Drift Theme
 
 A VS Code theme inspired by the aurora borealis — available in dark and light variants.
 
 ## Themes
 
-**Aurora Dark** — deep midnight blues with aurora accent colors  
-**Aurora Light** — soft lavender whites with rich, saturated accents
+**Aurora Drift Dark** — deep midnight blues with aurora accent colors  
+**Aurora Drift Light** — soft lavender whites with rich, saturated accents
 
 ## Color Palette
 
-### Aurora Dark
+### Aurora Drift Dark
 
 | Role | Color |
 |---|---|
@@ -24,7 +24,7 @@ A VS Code theme inspired by the aurora borealis — available in dark and light 
 | Orange | `#f5c080` |
 | Red | `#f09898` |
 
-### Aurora Light
+### Aurora Drift Light
 
 | Role | Color |
 |---|---|
@@ -43,10 +43,10 @@ A VS Code theme inspired by the aurora borealis — available in dark and light 
 
 1. Open VS Code
 2. Go to Extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-3. Search for **Aurora Theme**
+3. Search for **Aurora Drift Theme**
 4. Click **Install**
-5. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) → **Preferences: Color Theme** → select **Aurora Dark** or **Aurora Light**
+5. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) → **Preferences: Color Theme** → select **Aurora Drift Dark** or **Aurora Drift Light**
 
 ## Repository
 
-[github.com/anamariafovo/vscode-aurora-theme](https://github.com/anamariafovo/vscode-aurora-theme)
+[github.com/anamariafovo/vscode-aurora-drift-theme](https://github.com/anamariafovo/vscode-aurora-drift-theme)

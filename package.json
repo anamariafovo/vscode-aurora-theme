@@ -1,14 +1,14 @@
 {
-  "name": "aurora-theme",
-  "displayName": "Aurora Theme",
+  "name": "aurora-drift-theme",
+  "displayName": "Aurora Drift Theme",
   "description": "A VS Code theme inspired by aurora borealis — deep blues, magentas, greens, and golds.",
   "version": "0.1.0",
   "publisher": "neonmoon",
-  "icon": "aurora-theme.png",
+  "icon": "aurora-drift-theme.png",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anamariafovo/vscode-aurora-theme"
+    "url": "https://github.com/anamariafovo/vscode-aurora-drift-theme"
   },
   "engines": {
     "vscode": "^1.75.0"
@@ -33,14 +33,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Aurora Dark",
+        "label": "Aurora Drift Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/aurora-dark-color-theme.json"
+        "path": "./themes/aurora-drift-dark-color-theme.json"
       },
       {
-        "label": "Aurora Light",
+        "label": "Aurora Drift Light",
         "uiTheme": "vs",
-        "path": "./themes/aurora-light-color-theme.json"
+        "path": "./themes/aurora-drift-light-color-theme.json"
       }
     ]
   }
